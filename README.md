@@ -21,3 +21,6 @@ Each notebook has an optional `DATASET_PATH` variable. Leave it as `None` for au
 - RQ5: `RQ5_table_manufacturer_ev_type_composition.csv`, `RQ5_figure_manufacturer_ev_type_composition.pdf`
 - RQ6: `RQ6_table_geographic_feature_comparison.csv`, `RQ6_figure_geographic_feature_comparison.pdf`
 - RQ7: `RQ7_table_performance_interpretability_tradeoff.csv`, `RQ7_figure_performance_interpretability_tradeoff.pdf`
+
+## Overleaf link
+Use thins link if you can't access from team: https://www.overleaf.com/3785432748bwrfxvcknwcm#2fe7ed
