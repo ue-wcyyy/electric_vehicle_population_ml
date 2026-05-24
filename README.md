@@ -23,4 +23,4 @@ Each notebook has an optional `DATASET_PATH` variable. Leave it as `None` for au
 - RQ7: `RQ7_table_performance_interpretability_tradeoff.csv`, `RQ7_figure_performance_interpretability_tradeoff.pdf`
 
 ## Overleaf link
-Use thins link if you can't access from team: https://www.overleaf.com/3785432748bwrfxvcknwcm#2fe7ed
+Use the link if you can't access from team: https://www.overleaf.com/3785432748bwrfxvcknwcm#2fe7ed
